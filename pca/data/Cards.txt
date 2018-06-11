@@ -1,0 +1,4 @@
+card,name,lastname,issuer
+3572911731557252,Francisco,Arias Sanchez,BBVA
+30231431875033,Norberto,Marias Quintana,AmericanExpress
+6393922837601621,Julio,Cortazar Carter,BBVA
